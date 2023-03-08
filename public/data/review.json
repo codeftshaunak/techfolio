@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Carolyn Beer",
+        "clientImage":"https://www.upwork.com/profile-portraits/c1yveHHZsEVmByboYzVqKTRMDIe8eVPIoszrT4ZKV2bVhKpQw84r4k8oI7D-uC8y4W",
+        "testomonial":"Working with Sagar D. was an absolute pleasure. Their technical expertise, attention to detail, and ability to problem-solve was second to none. Their full-stack development skills allowed them to deliver a seamless user experience with minimal bugs. I highly recommend Sagar D. for any project, big or small.",
+        "projectName":"Full Stack Website Building",
+        "projectImage":"https://i.ibb.co/Wc7MP9g/Screenshot-2023-02-20-at-10-07-54-PM.png",
+        "platform":"Upwork",
+        "logo":"https://i.ibb.co/Y49Jw5Z/unnamed.png"
+
+    },
+    {
+        "name": "Zao Yang",
+        "clientImage":"https://www.upwork.com/profile-portraits/c1aBUaveJcTUpK-sfHRAzT3EkVcRbiXPeGR3rTjABeZdQBkxH3F9VSRTTjfXNWZ8tJ",
+        "testomonial":"Was responsive and was able to deal with technical video creating.",
+        "projectName":"Programming Content Creating",
+        "projectImage":"https://i.ibb.co/wpsqDcf/Screenshot-2023-02-20-at-10-10-55-PM.png",
+        "platform":"Upwork",
+        "logo":"https://i.ibb.co/Y49Jw5Z/unnamed.png"
+
+    },
+    {
+        "name": "DoWell Research HR",
+        "clientImage":"https://i.ibb.co/FBQMWPH/true-moments-logo-1-1-442919954-1538479590775.webp",
+        "testomonial":" was thoroughly impressed with Sagar's React skills. They demonstrated a deep understanding of the framework and built a robust and scalable application that exceeded my expectations. Their attention to detail and ability to work in a team environment made for a smooth development process. I look forward to working with Sagar d. again in the future",
+        "projectName":"React.js Developer",
+        "projectImage":"https://i.ibb.co/txVrBXR/Screenshot-2023-02-20-at-10-09-57-PM.png",
+        "platform":"Upwork",
+        "logo":"https://i.ibb.co/Y49Jw5Z/unnamed.png"
+
+    }
+]

@@ -1,0 +1,76 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "firacode";
+  src: url('./fonts/FiraCode.ttf');
+}
+
+:root{
+  --primaryColorBg: #000;
+  --primaryColorFont: #fff;
+  --thirdColorFont: #c4c4c4;
+  --btnBackground: #4d4949; 
+  --cuteColor: #ff0080;
+}
+
+body{
+  font-family: firacode;
+  background-color: var(--primaryColorBg);
+  color: var(--primaryColorFont);
+}
+
+a{
+  text-decoration: none;
+}
+
+.container{
+  width: 1200px;
+  margin: auto;
+}
+.bubble-container {
+  position: relative;
+  width: 400px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.bubble {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.7;
+  animation: bubble 1s ease-in-out infinite alternate;
+  animation-delay: calc(var(--i) * 0.1s);
+}
+
+.bubble:hover {
+  opacity: 1;
+}
+
+.bubble-container:hover {
+  background-color: transparent;
+}
+
+@keyframes bubble {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(50px, 50px);
+  }
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+  .container{
+    width: 95%;
+    margin: auto;
+  }
+}
+
+
+
+

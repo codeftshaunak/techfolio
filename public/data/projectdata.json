@@ -1,0 +1,30 @@
+[
+    {
+        "ProjectName":"Dowell Job Portal",
+        "ProjectDescription":"This is a Job Portal and it's mainly focused on how easily one can apply for the job. We are try to making this project cause we need to hire develoepr for use and we are depend on different platform. We are try to make our own platform that can help us and others to get their dream job and we can get the best candidates. In this project i am responsible for deveoping frontend using mordern technology React.js & Redux.",
+        "ProjectKeypoint":["This is a job portal website where candidate can apply for job", "People can search for job based on specific country and job title", "Admin can edit job also add and delete old job", "Everyone have to login then based on his rule he will able to show the details", "HR can access the job application and filter those applcations.","Candidates can submit their resume and details when they apply for the job"],
+        "ProjectDate":"Jan 2023 - Present",
+        "ProjectImg":["https://i.ibb.co/RbCbpgR/Screenshot-2023-02-17-at-10-34-31-PM.png", "https://i.ibb.co/PG3L2bQ/Screenshot-2023-02-17-at-10-34-38-PM.png","https://i.ibb.co/StmnXGw/Screenshot-2023-02-17-at-10-34-55-PM.png"],
+        "Website":"https://ll07-team-dowell.github.io/100098-DowellJobPortal/#/",
+        "GitHub":"https://github.com/LL07-Team-Dowell/100098-DowellJobPortal/tree/sager-frontend",
+        "Technology":["React.js", "Redux", "Typescript", "Django", "MySql"]
+    },{
+        "ProjectName":"E-Commerce Project",
+        "ProjectDescription":"This is a E-Commerce website build with React.js for develop frontend. It have many feature include tour travel and other stuff. I design and develop this website using only React.js and Style component. This is a freelance project that i've worked for my client",
+        "ProjectKeypoint":["As a e-Commerce website cusomer can easily purchese product from the shop page", "People can filter product with different options or different category", "Custormar can add to cart product also can delete product from the cart"],
+        "ProjectDate":"Nov 2022 - Jan 2023",
+        "ProjectImg":["https://i.ibb.co/f1zsJ7w/dr-bro-home.png","https://i.ibb.co/Z1gqLcv/shop-page.png","https://i.ibb.co/ZWjRngc/tour-travel.png"],
+        "Website":"https://chimerical-kleicha-785266.netlify.app",
+        "GitHub":"https://github.com/codeftshaunak/Dr_Bro_Ecommerce",
+        "Technology":["React.js", "Redux", "Node.js", "Express.js", "MongoDB"]
+    },{
+        "ProjectName":"Degan Warrior",
+        "ProjectDescription":"This is a Web-3 project developed on Next.js. I was build this project for web-3. Mainly this project is connect with etherium for selling nft. Mainly this website is linked with etherium.",
+        "ProjectKeypoint":["Customar can add wallet into the warrior list", "People can buy nft for themselver", "They can verify their nft warllet"],
+        "ProjectDate":"Jan 2023 - Jan 2023",
+        "ProjectImg":["https://i.ibb.co/WpZ8THW/Screenshot-2023-02-17-at-11-16-31-PM.png","https://i.ibb.co/TRM9NkM/Screenshot-2023-02-17-at-11-16-43-PM.png", "https://i.ibb.co/jGmPbhK/Screenshot-2023-02-17-at-11-16-50-PM.png"],
+        "Website":"https://www.degenwarriors.xyz/",
+        "GitHub":"https://github.com/codeftshaunak/degenwarriors",
+        "Technology":["React.js", "Redux", "Node.js", "Express.js", "MongoDB"]
+    } 
+]
