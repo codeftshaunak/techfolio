@@ -18,8 +18,8 @@ const HeroSection = () => {
         const colors = ['#1abc9c', '#3498db', '#9b59b6', '#e67e22', '#e74c3c'];
         const bubbles = [];
 
-        for (let i = 0; i < 20; i++) {
-            const size = Math.floor(Math.random() * 50) + 10;
+        for (let i = 0; i < 40; i++) {
+            const size = Math.floor(Math.random() * 10) + 10;
             const color = colors[Math.floor(Math.random() * colors.length)];
 
             bubbles.push(
@@ -64,7 +64,7 @@ const HeroSection = () => {
                 </div>
             </div>
         </div>
-        {isHovering && renderBubbles()}
+        {/* {isHovering && renderBubbles()} */}
     </Wrapper>
     )
 }

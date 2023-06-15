@@ -17,14 +17,25 @@
         "Website":"https://chimerical-kleicha-785266.netlify.app",
         "GitHub":"https://github.com/codeftshaunak/Dr_Bro_Ecommerce",
         "Technology":["React.js", "Redux", "Node.js", "Express.js", "MongoDB"]
-    },{
-        "ProjectName":"Degan Warrior",
-        "ProjectDescription":"This is a Web-3 project developed on Next.js. I was build this project for web-3. Mainly this project is connect with etherium for selling nft. Mainly this website is linked with etherium.",
-        "ProjectKeypoint":["Customar can add wallet into the warrior list", "People can buy nft for themselver", "They can verify their nft warllet"],
+    },
+    {
+        "ProjectName":"Express Courier",
+        "ProjectDescription":"This is an courier webapplication. It's a client project that going to help customer making their order on the courier website",
+        "ProjectKeypoint":["Admin can add new data, delete customers orders, update it and Able to make the customer active or verified.", "Customers are able to make the order, search order based on order number, place or tracking number and download the csv file.", "Admin and Customer have separate login and dashboard. Users are able to change the password or recover the password.", "Admin is also able to upload csv files for creating new data or modify the existing data."],
         "ProjectDate":"Jan 2023 - Jan 2023",
-        "ProjectImg":["https://i.ibb.co/WpZ8THW/Screenshot-2023-02-17-at-11-16-31-PM.png","https://i.ibb.co/TRM9NkM/Screenshot-2023-02-17-at-11-16-43-PM.png", "https://i.ibb.co/jGmPbhK/Screenshot-2023-02-17-at-11-16-50-PM.png"],
-        "Website":"https://www.degenwarriors.xyz/",
-        "GitHub":"https://github.com/codeftshaunak/degenwarriors",
+        "ProjectImg":["https://i.ibb.co/MMY1072/screencapture-iridescent-sawine-dc0697-netlify-app-2023-06-15-13-31-20.png","https://i.ibb.co/SmK5ZNq/screencapture-iridescent-sawine-dc0697-netlify-app-dashboard-2023-06-15-13-31-35.png","https://i.ibb.co/ZGNv6vy/screencapture-iridescent-sawine-dc0697-netlify-app-about-2023-06-14-02-29-14.png"],
+        "Website":"https://iridescent-sawine-dc0697.netlify.app",
+        "GitHub":"https://github.com/codeftshaunak/Courier_App",
         "Technology":["React.js", "Redux", "Node.js", "Express.js", "MongoDB"]
-    } 
+    },
+    {
+        "ProjectName":"BesTodo",
+        "ProjectDescription":"This is a Todo Application Where you can add new data. Filter in a different level & you can delete easily data.",
+        "ProjectKeypoint":["Customar can add new todo data and easily can delete", "People can buy nft for themselver", "They can verify their nft warllet"],
+        "ProjectDate":"Mar 2023 - Mar 2023",
+        "ProjectImg":["https://i.ibb.co/DbbN3NK/screencapture-effervescent-conkies-3bac70-netlify-app-2023-06-14-02-10-20.png","https://i.ibb.co/W61CbHt/screencapture-effervescent-conkies-3bac70-netlify-app-todo-2023-06-15-13-43-26.png","https://i.ibb.co/XSWpjVj/screencapture-effervescent-conkies-3bac70-netlify-app-todo-2023-06-14-02-12-13.png"],
+        "Website":"https://effervescent-conkies-3bac70.netlify.app",
+        "GitHub":"https://github.com/codeftshaunak/bestodo-application",
+        "Technology":["React.js", "Redux", "Node.js", "Express.js", "MongoDB"]
+    }
 ]
