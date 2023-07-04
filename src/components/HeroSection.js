@@ -111,7 +111,7 @@ const Wrapper = styled.section`
         transform: translate(-50%, -50%);
         z-index: 100;
         height: 100%;
-        width: 75%;
+        width: 70%;
         background-color: rgba(0, 0, 0, 0.7); 
         color: #fff;
         display: flex;
