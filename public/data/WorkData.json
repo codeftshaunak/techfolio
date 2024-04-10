@@ -1,64 +1,112 @@
 [
-    {
-      "JobTitles": "Frontend Engineer",
-      "JobDescription": {"Description":"As a React Developer, I am responsible for developing and implementing user interface components using React.js workflows. I am working closely with the product and design teams to ensure that all user-facing features are both visually appealing and highly functional", "Responsibilities":[ "Develop new user-facing features using React.js",
-      "Collaborate with product and design teams to ensure the best possible user experience",
-      "Translate designs and wireframes into high-quality code",
-      "Optimize components for maximum performance across a vast array of web-capable devices and browsers",
-      "Write high-quality, well-documented code that is maintainable and easy to understand",
-      "Work with the back-end team to integrate front-end components with back-end APIs"]},
-      "Skills": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "Figma",
-        "Gitlab",
-        "React.js",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "GitHub",
-        "ECMAScript"
-      ],
-      "JoinDate": "Jan-2023",
-      "EndDate": "Present",
-      "CompanyName": "DoWell Research GmbH",
-      "Location": "Germany(Remote)",
-      "JobType": "Freelance",
-      "Website": "https://dowellresearch.de/",
-      "CompanyLogo": "https://i.ibb.co/FBQMWPH/true-moments-logo-1-1-442919954-1538479590775.webp"
+  {
+    "JobTitles": "Software Engineer (Tech Lead)",
+    "JobDescription": {
+      "Description": "As a React Developer, I am responsible for developing and implementing user interface components using React.js workflows. I am working closely with the product and design teams to ensure that all user-facing features are both visually appealing and highly functional",
+      "Responsibilities": [
+        "Develop new user-facing features using React.js",
+        "Collaborate with product and design teams to ensure the best possible user experience",
+        "Translate designs and wireframes into high-quality code",
+        "Optimize components for maximum performance across a vast array of web-capable devices and browsers",
+        "Write high-quality, well-documented code that is maintainable and easy to understand",
+        "Work with the back-end team to integrate front-end components with back-end APIs"
+      ]
     },
-    {
-      "JobTitles": "Front End Developer",
-      "JobDescription": {"Description":"As a React Developer, I am responsible for developing and implementing user interface components using React.js workflows. I am working closely with the product and design teams to ensure that all user-facing features are both visually appealing and highly functional", "Responsibilities":[ "Develop new user-facing features using React.js",
-      "Collaborate with product and design teams to ensure the best possible user experience",
-      "Translate designs and wireframes into high-quality code",
-      "Optimize components for maximum performance across a vast array of web-capable devices and browsers",
-      "Write high-quality, well-documented code that is maintainable and easy to understand",
-      "Work with the back-end team to integrate front-end components with back-end APIs"]},
-      "Skills": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "Figma",
-        "Gitlab",
-        "React.js",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "GitHub",
-        "ECMAScript"
-      ],
-      "JoinDate": "June 2022",
-      "EndDate": "Present",
-      "CompanyName": "Upwork",
-      "Location": "Remote",
-      "JobType": "Freelance",
-      "Website": "https://www.upwork.com/freelancers/~010d6209cd08fc74cb",
-      "CompanyLogo": "https://i.ibb.co/Y49Jw5Z/unnamed.png"
-    },{
-        "JobTitles": "Talent Placement Executive",
-        "JobDescription": {"Description":"Programming Hero is an online-based learning platform that helps passionate developers to achieve their goals. Apart from teaching, Programming through our app and web courses, we're evolving and empowering Companies to find and connect with excellent Web-Developers to build a great team globally.","Responsibilities":["Building network worldwide and exploring web developing opportunities",
+    "Skills": [
+      "Next.js",
+      "JavaScript",
+      "Stripe",
+      "Figma",
+      "Gitlab",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "GitHub",
+      "ECMAScript"
+    ],
+    "JoinDate": "Aug-2023",
+    "EndDate": "Present",
+    "CompanyName": "Cofounderslab",
+    "Location": "USA(Remote)",
+    "JobType": "Full Time",
+    "Website": "https://cofounderslab.com/",
+    "CompanyLogo": "https://media.licdn.com/dms/image/C4D0BAQHGqNnAL74yCg/company-logo_200_200/0/1631341989327?e=1720656000&v=beta&t=Woq-ZY3FMScFmPCGdB4S5R2eDDjFhIXxfwrFKY26KRg"
+  },
+  {
+    "JobTitles": "Frontend Engineer",
+    "JobDescription": {
+      "Description": "I am working as a software engineer and I am playing the role of team lead for the current project our company have. I am playing the lead role here and managing the project for getting the result we want. As a engineer I am playing the full stack role working in frontend backend both side to ensure the best quality of our product.      ",
+      "Responsibilities": [
+        "Manage our internal developer team for running the project.",
+        "Testing the application and debugging the issue.",
+        "Developing new features for the application that can help our clients to use our application effectively.",
+        "Collaborate with product and design teams to ensure the best possible user experience",
+        "Optimize components for maximum performance across a vast array of web-capable devices and browsers",
+        "Develop the back-end to integrate front-end components."
+      ]
+    },
+    "Skills": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Figma",
+      "Gitlab",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "GitHub",
+      "ECMAScript"
+    ],
+    "JoinDate": "Jan-2023",
+    "EndDate": "Present",
+    "CompanyName": "DoWell Research GmbH",
+    "Location": "Germany(Remote)",
+    "JobType": "Freelance",
+    "Website": "https://dowellresearch.de/",
+    "CompanyLogo": "https://i.ibb.co/FBQMWPH/true-moments-logo-1-1-442919954-1538479590775.webp"
+  },
+  {
+    "JobTitles": "Front End Developer",
+    "JobDescription": {
+      "Description": "As a React Developer, I am responsible for developing and implementing user interface components using React.js workflows. I am working closely with the product and design teams to ensure that all user-facing features are both visually appealing and highly functional",
+      "Responsibilities": [
+        "Develop new user-facing features using React.js",
+        "Collaborate with product and design teams to ensure the best possible user experience",
+        "Translate designs and wireframes into high-quality code",
+        "Optimize components for maximum performance across a vast array of web-capable devices and browsers",
+        "Write high-quality, well-documented code that is maintainable and easy to understand",
+        "Work with the back-end team to integrate front-end components with back-end APIs"
+      ]
+    },
+    "Skills": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Figma",
+      "Gitlab",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "GitHub",
+      "ECMAScript"
+    ],
+    "JoinDate": "June 2022",
+    "EndDate": "Present",
+    "CompanyName": "Upwork",
+    "Location": "Remote",
+    "JobType": "Freelance",
+    "Website": "https://www.upwork.com/freelancers/~010d6209cd08fc74cb",
+    "CompanyLogo": "https://i.ibb.co/Y49Jw5Z/unnamed.png"
+  },
+  {
+    "JobTitles": "Talent Placement Executive",
+    "JobDescription": {
+      "Description": "Programming Hero is an online-based learning platform that helps passionate developers to achieve their goals. Apart from teaching, Programming through our app and web courses, we're evolving and empowering Companies to find and connect with excellent Web-Developers to build a great team globally.",
+      "Responsibilities": [
+        "Building network worldwide and exploring web developing opportunities",
         "Connection bridge from students to authority",
         "Solving student's issues in different aspects",
         "It is placing individual candidates for the job that correctly matches to build their career path.",
@@ -66,21 +114,23 @@
         "Marketing the company's image to clients and the general people through my content",
         "Connecting companies with the top talents who have finished our courses with excellency",
         "Planning new features and ideas for teams well-being",
-        "Working with alumni students and solving their issues"]},
-        "Skills": [
-            "Project Management",
-            "Teamwork",
-            "Communication",
-            "Relationship",
-            "Public Speaking",
-            "Time Management"
-        ],
-        "JoinDate": "July 2022",
-        "EndDate": "October 2022",
-        "CompanyName": "Programming Hero",
-        "Location": "USA (Remote)",
-        "JobType": "Full Time",
-        "Website": "https://www.programming-hero.com/",
-        "CompanyLogo": "https://i.ibb.co/kKkyk2t/download.jpg"
-    }    
+        "Working with alumni students and solving their issues"
+      ]
+    },
+    "Skills": [
+      "Project Management",
+      "Teamwork",
+      "Communication",
+      "Relationship",
+      "Public Speaking",
+      "Time Management"
+    ],
+    "JoinDate": "July 2022",
+    "EndDate": "October 2022",
+    "CompanyName": "Programming Hero",
+    "Location": "USA (Remote)",
+    "JobType": "Full Time",
+    "Website": "https://www.programming-hero.com/",
+    "CompanyLogo": "https://i.ibb.co/kKkyk2t/download.jpg"
+  }
 ]

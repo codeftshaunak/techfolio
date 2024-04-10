@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -6,28 +6,28 @@
 
 @font-face {
   font-family: "firacode";
-  src: url('./fonts/FiraCode.ttf');
+  src: url("./fonts/FiraCode.ttf");
 }
 
-:root{
+:root {
   --primaryColorBg: #000;
   --primaryColorFont: #fff;
   --thirdColorFont: #c4c4c4;
-  --btnBackground: #4d4949; 
+  --btnBackground: #4d4949;
   --cuteColor: #ff0080;
 }
 
-body{
+body {
   font-family: firacode;
   background-color: var(--primaryColorBg);
   color: var(--primaryColorFont);
 }
 
-a{
+a {
   text-decoration: none;
 }
 
-.container{
+.container {
   width: 1200px;
   margin: auto;
 }
@@ -62,15 +62,9 @@ a{
   }
 }
 
-
-
 @media only screen and (max-width: 1200px) {
-  .container{
+  .container {
     width: 95%;
     margin: auto;
   }
 }
-
-
-
-

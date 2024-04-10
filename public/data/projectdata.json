@@ -1,41 +1,88 @@
 [
-    {
-        "ProjectName":"Dowell Job Portal",
-        "ProjectDescription":"This is a Job Portal and it's mainly focused on how easily one can apply for the job. We are try to making this project cause we need to hire develoepr for use and we are depend on different platform. We are try to make our own platform that can help us and others to get their dream job and we can get the best candidates. In this project i am responsible for deveoping frontend using mordern technology React.js & Redux.",
-        "ProjectKeypoint":["This is a job portal website where candidate can apply for job", "People can search for job based on specific country and job title", "Admin can edit job also add and delete old job", "Everyone have to login then based on his rule he will able to show the details", "HR can access the job application and filter those applcations.","Candidates can submit their resume and details when they apply for the job"],
-        "ProjectDate":"Jan 2023 - Present",
-        "ProjectImg":["https://i.ibb.co/RbCbpgR/Screenshot-2023-02-17-at-10-34-31-PM.png", "https://i.ibb.co/PG3L2bQ/Screenshot-2023-02-17-at-10-34-38-PM.png","https://i.ibb.co/StmnXGw/Screenshot-2023-02-17-at-10-34-55-PM.png"],
-        "Website":"https://ll07-team-dowell.github.io/100098-DowellJobPortal/#/",
-        "GitHub":"https://github.com/LL07-Team-Dowell/100098-DowellJobPortal/tree/sager-frontend",
-        "Technology":["React.js", "Redux", "Typescript", "Django", "MySql"]
-    },{
-        "ProjectName":"E-Commerce Project",
-        "ProjectDescription":"This is a E-Commerce website build with React.js for develop frontend. It have many feature include tour travel and other stuff. I design and develop this website using only React.js and Style component. This is a freelance project that i've worked for my client",
-        "ProjectKeypoint":["As a e-Commerce website cusomer can easily purchese product from the shop page", "People can filter product with different options or different category", "Custormar can add to cart product also can delete product from the cart"],
-        "ProjectDate":"Nov 2022 - Jan 2023",
-        "ProjectImg":["https://i.ibb.co/f1zsJ7w/dr-bro-home.png","https://i.ibb.co/Z1gqLcv/shop-page.png","https://i.ibb.co/ZWjRngc/tour-travel.png"],
-        "Website":"https://chimerical-kleicha-785266.netlify.app",
-        "GitHub":"https://github.com/codeftshaunak/Dr_Bro_Ecommerce",
-        "Technology":["React.js", "Redux", "Node.js", "Express.js", "MongoDB"]
-    },
-    {
-        "ProjectName":"Express Courier",
-        "ProjectDescription":"This is an courier webapplication. It's a client project that going to help customer making their order on the courier website",
-        "ProjectKeypoint":["Admin can add new data, delete customers orders, update it and Able to make the customer active or verified.", "Customers are able to make the order, search order based on order number, place or tracking number and download the csv file.", "Admin and Customer have separate login and dashboard. Users are able to change the password or recover the password.", "Admin is also able to upload csv files for creating new data or modify the existing data."],
-        "ProjectDate":"Jan 2023 - Jan 2023",
-        "ProjectImg":["https://i.ibb.co/MMY1072/screencapture-iridescent-sawine-dc0697-netlify-app-2023-06-15-13-31-20.png","https://i.ibb.co/SmK5ZNq/screencapture-iridescent-sawine-dc0697-netlify-app-dashboard-2023-06-15-13-31-35.png","https://i.ibb.co/ZGNv6vy/screencapture-iridescent-sawine-dc0697-netlify-app-about-2023-06-14-02-29-14.png"],
-        "Website":"https://iridescent-sawine-dc0697.netlify.app",
-        "GitHub":"https://github.com/codeftshaunak/Courier_App",
-        "Technology":["React.js", "Redux", "Node.js", "Express.js", "MongoDB"]
-    },
-    {
-        "ProjectName":"BesTodo",
-        "ProjectDescription":"This is a Todo Application Where you can add new data. Filter in a different level & you can delete easily data.",
-        "ProjectKeypoint":["Customar can add new todo data and easily can delete", "People can buy nft for themselver", "They can verify their nft warllet"],
-        "ProjectDate":"Mar 2023 - Mar 2023",
-        "ProjectImg":["https://i.ibb.co/DbbN3NK/screencapture-effervescent-conkies-3bac70-netlify-app-2023-06-14-02-10-20.png","https://i.ibb.co/W61CbHt/screencapture-effervescent-conkies-3bac70-netlify-app-todo-2023-06-15-13-43-26.png","https://i.ibb.co/XSWpjVj/screencapture-effervescent-conkies-3bac70-netlify-app-todo-2023-06-14-02-12-13.png"],
-        "Website":"https://effervescent-conkies-3bac70.netlify.app",
-        "GitHub":"https://github.com/codeftshaunak/bestodo-application",
-        "Technology":["React.js", "Redux", "Node.js", "Express.js", "MongoDB"]
-    }
+  {
+    "ProjectName": "Dowell Job Portal",
+    "ProjectDescription": "This is a Job Portal and it's mainly focused on how easily one can apply for the job. We are try to making this project cause we need to hire develoepr for use and we are depend on different platform. We are try to make our own platform that can help us and others to get their dream job and we can get the best candidates. In this project i am responsible for deveoping frontend using mordern technology React.js & Redux.",
+    "ProjectKeypoint": [
+      "This is a job portal website where candidate can apply for job",
+      "People can search for job based on specific country and job title",
+      "Admin can edit job also add and delete old job",
+      "Everyone have to login then based on his rule he will able to show the details",
+      "HR can access the job application and filter those applcations.",
+      "Candidates can submit their resume and details when they apply for the job"
+    ],
+    "ProjectDate": "Jan 2023 - Present",
+    "ProjectImg": [
+      "https://i.ibb.co/RbCbpgR/Screenshot-2023-02-17-at-10-34-31-PM.png",
+      "https://i.ibb.co/PG3L2bQ/Screenshot-2023-02-17-at-10-34-38-PM.png",
+      "https://i.ibb.co/StmnXGw/Screenshot-2023-02-17-at-10-34-55-PM.png"
+    ],
+    "Website": "https://ll07-team-dowell.github.io/100098-DowellJobPortal/#/",
+    "GitHub": "https://github.com/LL07-Team-Dowell/100098-DowellJobPortal/tree/sager-frontend",
+    "Technology": ["React.js", "Redux", "Typescript", "Django", "MySql"]
+  },
+  {
+    "ProjectName": "Advisory Network",
+    "ProjectDescription": "In this project, I've developed a full-fledged web application that demonstrates my skills in both front-end and back-end development. Key",
+    "ProjectKeypoint": [
+      "✨ User Authentication: Implemented secure user registration and login functionality.",
+      "✨ Dynamic UI: Created a sleek, responsive user interface with React components.",
+      "✨ Database Integration: Utilized MongoDB for efficient data storage and retrieval.",
+      "✨ RESTful API Development: Designed robust API endpoints for seamless data interaction.",
+      "✨ Scalability: Engineered for scalability, ensuring smooth performance as user traffic grows.",
+      "✨ Deployment: Deployed the application, making it accessible to users worldwide."
+    ],
+    "ProjectDate": "Nov 2022 - Jan 2023",
+    "ProjectImg": [
+      "https://i.ibb.co/WKknJDV/image.png",
+      "https://i.ibb.co/p1fsSjJ/image.png",
+      "https://i.ibb.co/5FNgbDT/image.png"
+    ],
+    "Website": "https://advisors.cofounderslab.com/",
+    "GitHub": "https://github.com/codeftshaunak",
+    "Technology": ["Next.js", "Redux", "Node.js", "Express.js", "MongoDB"]
+  },
+  {
+    "ProjectName": "CofounderLabs",
+    "ProjectDescription": "Welcome to CofounderLabs, a revolutionary platform designed for entrepreneurs and visionaries to connect, collaborate, and bring groundbreaking ideas to life. Developed by a seasoned professional with expertise in React, Next.js, Typescript, Node.js, Express.js, MongoDB, Stripe, JWT, and Tailwind CSS, CofounderLabs is set to redefine the way founders connect and build together.",
+    "ProjectKeypoint": [
+      "Seamlessly create and manage your entrepreneur profile. Showcase your skills, experience, and projects.",
+      "Leverage the power of React and Next.js for a lightning-fast search experience. Discover potential co-founders based on skills, industries, and interests.",
+      "Utilize the security of JWT for a robust and encrypted messaging system. Communicate with potential collaborators in a secure environment.",
+      "Post your entrepreneurial projects and innovative ideas. Attract like-minded founders interested in your vision."
+    ],
+    "ProjectDate": "Jan 2023 - Jan 2023",
+    "ProjectImg": [
+      "https://i.ibb.co/ZLz731J/image.png",
+      "https://i.ibb.co/NN5gKSr/image.png",
+      "https://i.ibb.co/5THxs5x/image.png"
+    ],
+    "Website": "https://cofounderslab.com/",
+    "GitHub": "https://github.com/codeftshaunak",
+    "Technology": [
+      "Next.js",
+      "Strapi",
+      "Redux",
+      "Node.js",
+      "Express.js",
+      "MongoDB"
+    ]
+  },
+  {
+    "ProjectName": "BesTodo",
+    "ProjectDescription": "This is a Todo Application Where you can add new data. Filter in a different level & you can delete easily data.",
+    "ProjectKeypoint": [
+      "Customar can add new todo data and easily can delete",
+      "People can buy nft for themselver",
+      "They can verify their nft warllet"
+    ],
+    "ProjectDate": "Mar 2023 - Mar 2023",
+    "ProjectImg": [
+      "https://i.ibb.co/DbbN3NK/screencapture-effervescent-conkies-3bac70-netlify-app-2023-06-14-02-10-20.png",
+      "https://i.ibb.co/W61CbHt/screencapture-effervescent-conkies-3bac70-netlify-app-todo-2023-06-15-13-43-26.png",
+      "https://i.ibb.co/XSWpjVj/screencapture-effervescent-conkies-3bac70-netlify-app-todo-2023-06-14-02-12-13.png"
+    ],
+    "Website": "https://effervescent-conkies-3bac70.netlify.app",
+    "GitHub": "https://github.com/codeftshaunak/bestodo-application",
+    "Technology": ["React.js", "Redux", "Node.js", "Express.js", "MongoDB"]
+  }
 ]
